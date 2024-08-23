@@ -1,0 +1,11 @@
+:root {
+  /*colors*/
+  --color-text: #fff;
+  --color-primary: #bc57a1;
+  --color-secondary: #901c63;
+  --color-dark: #650150;
+  --color-bg: #3c0332;
+
+  /* fonts */
+  --font-cinzel: "cinzel";
+}
