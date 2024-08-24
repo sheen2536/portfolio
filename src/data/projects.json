@@ -1,37 +1,50 @@
 [
   {
     "title": "Promodoro-timer",
-    "imageSrc": "projects/POMODORO TECHNIQUE.avif",
     "description": "This is a project made to implement the pomodoro learining technique.",
     "skills": ["JavaScript", "HTML", "CSS"],
     "github_link": "https://github.com/sheen2536/pomodoro-timer"
   },
   {
     "title": "Jokes Generator",
-    "imageSrc": "projects/jokes.png",
     "description": "This is a fun project made to generate random tech jokes.",
     "skills": ["React", "Node", "CSS"],
     "github_link": "https://github.com/sheen2536/Jokes-Generator"
   },
   {
     "title": "Tic-Tac-Toe",
-    "imageSrc": "projects/tic.jpeg",
     "description": "This is a fun project made to learn python and implements the age old game of tic-tac-toe with a GUI.",
     "skills": ["Python"],
     "github_link": "https://github.com/sheen2536/SMS-SPAM"
   },
   {
     "title": "Rock-Paper-Scissor",
-    "imageSrc": "projects/Rock-paper-scissors.webp",
     "description": "This is a fun project made to learn python and implements the age old game of rock-paper-scissor.",
     "skills": ["Python"],
     "github_link": "https://github.com/sheen2536/rock-paper-scissor"
   },
   {
     "title": "SMS spam classifier",
-    "imageSrc": "projects/spam.png",
     "description": "This is a simple project made to learn machine learning.",
     "skills": ["Python", "Machine Learning"],
     "github_link": "https://github.com/sheen2536/rock-paper-scissor"
+  },
+  {
+    "title": "Housing Prices Prediction",
+    "description": "This is a simple project made to learn linear regression.",
+    "skills": ["Python", "Machine Learning"],
+    "github_link": "https://github.com/sheen2536/housingPrices"
+  },
+  {
+    "title": "Finding best move in tic-tac-toe",
+    "description": "This is a project made to learn algorithm design, game theory, and artificial intelligence principles.",
+    "skills": ["C++", "MinMax Algorithm"],
+    "github_link": "https://github.com/sheen2536/tic-tac-toe-finding-the-best-move--cpp-"
+  },
+  {
+    "title": "Population Scrapper",
+    "description": "This is a comprehensive web scraping application to extract and analyze country-wise population data",
+    "skills": ["Web Scrapping"],
+    "github_link": "https://github.com/sheen2536/population_scrapper"
   }
 ]
